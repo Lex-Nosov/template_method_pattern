@@ -1,1 +1,2 @@
-# template_method_pattern
+Изучение template_method_pattern.
+Работа с файлами и форматированием вывода в консоль.
